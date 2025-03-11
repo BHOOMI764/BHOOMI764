@@ -42,5 +42,3 @@
 
 ---
 
-### 🎯 **Fun Fact**
-⚡ I love **coding**, **problem-solving**, and **a good cup of chai!** ☕🚀  
