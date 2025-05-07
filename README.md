@@ -58,7 +58,7 @@
 ---
 
 ### 🌐 **Connect With Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhoomi-jaiswal-91715128b/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/BHOOMI764) 
 
 ---
