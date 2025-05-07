@@ -5,14 +5,6 @@
 </p>
 
 ---
-
-### 🌟 **About Me**
-- 💻 Passionate about **Full Stack Development (MERN + PostgreSQL)**, **AI/ML**, and **Android**
-- 🚀 Exploring advanced topics in **LLMs**, **GANs**
-- 💡 Love collaborating on **Open Source** and **Real-World Tech Initiatives**
-
----
-
 ### 💻 **Tech Stack & Tools**
 #### **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
