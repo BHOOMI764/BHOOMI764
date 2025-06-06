@@ -13,14 +13,15 @@ I'm always excited to collaborate, innovate, and contribute to impactful project
 
 ---
 
-## 🌟 Signature Projects
+## 🌟 Worked on these Projects
 
 ### 🔐 Naari – Women Safety App
-A real-time safety application powered by **AI** & **Geo-location tracking**, designed with love to prevent incidents like the Nirbhaya case.  
-🛠️ Features: SOS alerts, emergency contacts, threat-level detection, ML-based pattern recognition.
+A real-time safety application powered by **AI** & **Geo-location tracking**, designed with love for Women's Safety.  
+🛠️ Features: SOS alerts, emergency contacts, threat-level detection.
+
 
 ### 🌿 FootprintX – Carbon Footprint Tracker  
-Tracks, analyzes, and gamifies personal & institutional carbon emissions using **React**, **Django**, **PostgreSQL**, and **AI/NLP**.  
+Tracks, analyzes, and gamifies personal & institutional carbon emissions using **React**, **Node.js**, **SQLite**, and **API'S**.  
 🌀 Real-time carbon data, tweet-based complaint portal, AI dashboards & leaderboard gamification.
 
 ---
