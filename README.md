@@ -84,7 +84,6 @@ Tracks, analyzes, and gamifies personal & institutional carbon emissions using *
 
 ### 🧰 DevOps & Data Engineering  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI-blue?logo=jenkins)
 ![Linux](https://img.shields.io/badge/Linux-yellow?logo=linux)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blueviolet?logo=kubernetes)
