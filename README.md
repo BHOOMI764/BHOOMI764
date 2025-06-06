@@ -60,6 +60,9 @@ Tracks, analyzes, and gamifies personal & institutional carbon emissions using *
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
+![REST](https://img.shields.io/badge/REST%20API-005571?style=flat)
 
 ### 🧰 DevOps & Data Engineering  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -75,7 +78,7 @@ Tracks, analyzes, and gamifies personal & institutional carbon emissions using *
 
 - 💼 [LinkedIn](#)
 - 💻 [GitHub](https://github.com/BHOOMI764/BHOOMI764)
-- 📧 bhoomicat2005@gmail.com *(replace this with your real email)*
+- 📧 bhoomicat2005@gmail.com 
 
 ---
 
