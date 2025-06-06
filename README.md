@@ -35,7 +35,7 @@ Tracks, analyzes, and gamifies personal & institutional carbon emissions using *
 - 🗣️ **Natural Language Processing (NLP)** – BERT, sentiment analysis, spam detection  
 - 👁️‍🗨️ **Computer Vision (CV)** – object detection, OpenCV, YOLOv8  
 - 🔁 **MLOps & Model Deployment** – FastAPI, Docker, cloud  
-- 💾 **Data Engineering**,**LLM**,**Generative AI**,**GANS**,ETL Pipelines
+- 💾 **Data Engineering**,**LLM**,**Generative AI**,ETL Pipelines
 - ⛓️ Blockchain Technology – Exploring decentralized solutions
 - 📊 Project Management – Leading tech initiatives effectively
 
