@@ -76,7 +76,7 @@ Tracks, analyzes, and gamifies personal & institutional carbon emissions using *
 > ✨ I'm always up for coding jams, hackathons, open-source collabs, or just a fun dev conversation.  
 > 🧩 Reach out if you have ideas for social impact, or want to work on projects that blend **tech + purpose**.
 
-- 💼 [LinkedIn](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bhoomi-jaiswal-91715128b/)
 - 💻 [GitHub](https://github.com/BHOOMI764/BHOOMI764)
 - 📧 bhoomicat2005@gmail.com 
 
