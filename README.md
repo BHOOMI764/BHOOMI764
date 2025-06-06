@@ -45,6 +45,7 @@ Tracks, analyzes, and gamifies personal & institutional carbon emissions using *
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+[![Arduino](https://img.shields.io/badge/Arduino-Integrated-00979D?logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
 
 ### 🌐 Full Stack  
@@ -75,8 +76,12 @@ Tracks, analyzes, and gamifies personal & institutional carbon emissions using *
 ### 🧰 DevOps & Data Engineering  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka)
-
-
+[![Kafka](https://img.shields.io/badge/Apache%20Kafka-Enabled-brightgreen?logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-CI-blue?logo=jenkins)](https://www.jenkins.io/)
+[![Linux](https://img.shields.io/badge/Linux-Supported-yellow?logo=linux)](https://www.linux.org/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-Deployed-blueviolet?logo=kubernetes)](https://kubernetes.io/)
+[![DevOps](https://img.shields.io/badge/DevOps-Automated-orange?logo=devops&logoColor=white)](https://en.wikipedia.org/wiki/DevOps)
+[![Orchestration](https://img.shields.io/badge/Orchestration-Active-4B0082?logo=cloud&logoColor=white)]
 ---
 
 ## 🗣️ Let's Connect, Collaborate & Build!  
