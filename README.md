@@ -80,7 +80,7 @@ Tracks, analyzes, and gamifies personal & institutional carbon emissions using *
 ![Linux](https://img.shields.io/badge/Linux-yellow?logo=linux)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blueviolet?logo=kubernetes)
 ![DevOps](https://img.shields.io/badge/DevOps-orange?logo=devops)
-[![Orchestration](https://img.shields.io/badge/Orchestration-4B0082?logo=cloud&logoColor=white)]
+![Orchestration](https://img.shields.io/badge/Orchestration-4B0082?logo=cloud&logoColor=white)
 ---
 
 ## 🗣️ Let's Connect, Collaborate & Build!  
