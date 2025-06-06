@@ -82,7 +82,7 @@ Tracks, analyzes, and gamifies personal & institutional carbon emissions using *
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
 ![REST](https://img.shields.io/badge/REST%20API-005571?style=flat)
 
-### 🧰 DevOps & Data Engineering  
+### 🧰 DevOps 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI-blue?logo=jenkins)
 ![Linux](https://img.shields.io/badge/Linux-yellow?logo=linux)
