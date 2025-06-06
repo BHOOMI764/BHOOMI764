@@ -2,6 +2,7 @@
 
 A passionate **Full-Stack Developer**, **AI/ML Engineer**, and **Data Science Enthusiast** driven by the mission to **build tech that matters**.  
 💡 I **create impactful web apps — from frontend to backend to AI** — to solve real-world problems.
+🚀 Currently diving into Blockchain and Project Management to expand my tech horizons!
 
 ---
 
@@ -34,6 +35,8 @@ Tracks, analyzes, and gamifies personal & institutional carbon emissions using *
 - 👁️‍🗨️ **Computer Vision (CV)** – object detection, OpenCV, YOLOv8  
 - 🔁 **MLOps & Model Deployment** – FastAPI, Docker, cloud  
 - 💾 **Data Engineering**,**LLM**,**Generative AI**,**GANS**,ETL Pipelines
+- ⛓️ Blockchain Technology – Exploring decentralized solutions
+- 📊 Project Management – Leading tech initiatives effectively
 
 ---
 ## 🛠️ Tools, Languages & Frameworks 
