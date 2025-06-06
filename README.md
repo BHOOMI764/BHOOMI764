@@ -33,7 +33,7 @@ Tracks, analyzes, and gamifies personal & institutional carbon emissions using *
 - 🗣️ **Natural Language Processing (NLP)** – BERT, sentiment analysis, spam detection  
 - 👁️‍🗨️ **Computer Vision (CV)** – object detection, OpenCV, YOLOv8  
 - 🔁 **MLOps & Model Deployment** – FastAPI, Docker, cloud  
-- 💾 **Data Engineering** – Airflow, Spark, Kafka, ETL pipelines  
+- 💾 **Data Engineering** **LLM** **Generative AI** "GANS**
 
 ---
 ## 🛠️ Tools, Languages & Frameworks 
