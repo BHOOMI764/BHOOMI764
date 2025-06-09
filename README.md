@@ -31,16 +31,16 @@ Tracks, analyzes, and gamifies personal & institutional carbon emissions using *
 
 <div align="center">
 
-**![Bhoomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=BHOOMI764&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+<img alt="Bhoomi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BHOOMI764&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BHOOMI764&layout=compact&theme=tokyonight)
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHOOMI764&layout=compact&theme=tokyonight" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BHOOMI764&theme=tokyonight)**
+<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BHOOMI764&theme=tokyonight" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BHOOMI764&theme=monokai&column=7&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![Trophy](https://github-profile-trophy.vercel.app/?username=BHOOMI764&theme=monokai&column=7&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
 
 ---
 
