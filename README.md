@@ -27,18 +27,11 @@ Tracks, analyzes, and gamifies personal & institutional carbon emissions using *
 
 ---
 
-## 📊 GitHub Analytics
-
+📊 GitHub Analytics
 <div align="center">
-
 <img alt="Bhoomi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BHOOMI764&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHOOMI764&layout=compact&theme=tokyonight" />
-
 <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BHOOMI764&theme=tokyonight" />
-
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=BHOOMI764&theme=monokai&column=7&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---
