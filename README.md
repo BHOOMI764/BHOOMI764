@@ -37,10 +37,9 @@ Tracks, analyzes, and gamifies personal & institutional carbon emissions using *
 
 <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BHOOMI764&theme=tokyonight" />
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=BHOOMI764&theme=monokai&column=7&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=BHOOMI764&theme=monokai&column=7&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
 
 ---
 
