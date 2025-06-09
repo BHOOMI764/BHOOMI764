@@ -4,7 +4,8 @@ A passionate **Full-Stack Developer**, **AI/ML Engineer**, and **Data Science En
 
 🚀 **Currently diving into Blockchain and Project Management to expand my tech horizons!**
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=BHOOMI764.BHOOMI764)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=BHOOMI764.BHOOMI764)
+
 
 ---
 
