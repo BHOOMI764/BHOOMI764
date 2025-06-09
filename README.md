@@ -1,45 +1,50 @@
-# 👩‍💻 Hey there, I'm Bhoomi Jaiswal! 👋
+# 👋 Hi, I'm Bhoomi Jaiswal — Full-Stack Developer | AI/ML Engineer | Tech-for-Good Advocate 💙
 
 A passionate **Full-Stack Developer**, **AI/ML Engineer**, and **Data Science Enthusiast** driven by the mission to **build tech that matters**.  
-💡 I **create impactful web apps — from frontend to backend to AI[Model Tunning]** — to solve real-world problems.
+💡 I build impactful web apps — from frontend to backend to AI (model tuning) — to solve real-world problems.
 
 🚀 **Currently diving into Blockchain and Project Management to expand my tech horizons!**
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=BHOOMI764.BHOOMI764)
+
 ---
 
-### 🧠 What Drives Me?
+## 🧠 What Drives Me?
 
 🚀 **Code for Good** – I believe in technology that empowers, protects, and transforms lives.  
-👩‍💼 Always learning. Always shipping. Always growing with the dev community.
-I'm always excited to collaborate, innovate, and contribute to impactful projects💙
+👩‍💼 Always learning. Always shipping. Always growing with the dev community.  
+💙 Always excited to collaborate, innovate, and contribute to impactful projects!
 
 ---
 
 ## 🌟 Worked on these Projects
 
 ### 🔐 Naari – Women Safety App
-A real-time safety application powered by **AI** & **Geo-location tracking**, designed with love for Women's Safety.  
+A real-time safety application powered by **AI** & **Geo-location tracking**, designed to enhance safety and confidence for women.  
 🛠️ Features: SOS alerts, emergency contacts, threat-level detection.
 
-
 ### 🌿 FootprintX – Carbon Footprint Tracker  
-Tracks, analyzes, and gamifies personal & institutional carbon emissions using **React**, **Node.js**, **SQLite**, and **API'S**.  
-🌀 Real-time carbon data, tweet-based complaint portal, AI dashboards & leaderboard gamification.
+Tracks, analyzes, and gamifies personal & institutional carbon emissions using **React**, **Node.js**, **SQLite**, and **APIs**.  
+🌀 Features: Real-time carbon data, tweet-based complaint portal, AI dashboards & leaderboard gamification.
 
 ---
 
-## 👩‍🔬 Areas of Passion
+## 📊 GitHub Analytics
 
-- 💡 **Artificial Intelligence (AI)**,**Machine Learning[ML]**
-- 🧠 **Deep Learning** – CNN, RNN, GANs, Transformers  
-- 🗣️ **Natural Language Processing (NLP)** – BERT, sentiment analysis, spam detection  
-- 👁️‍🗨️ **Computer Vision (CV)** – object detection, OpenCV, YOLOv8  
-- 🔁 **MLOps & Model Deployment** – FastAPI, Docker, cloud  
-- 💾 **Data Engineering**,**LLM**,**Generative AI**,ETL Pipelines
-- ⛓️ Blockchain Technology – Exploring decentralized solutions
-- 📊 Project Management – Leading tech initiatives effectively
+<div align="center">
+
+![Bhoomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=BHOOMI764&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BHOOMI764&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BHOOMI764&theme=tokyonight)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BHOOMI764&theme=monokai&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
+
 ## 🛠️ Tools, Languages & Frameworks 
 
 ### 🌀 Programming Languages
@@ -50,8 +55,7 @@ Tracks, analyzes, and gamifies personal & institutional carbon emissions using *
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 
-
-### 🌐 Full Stack  
+### 🌐 Full Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -68,7 +72,6 @@ Tracks, analyzes, and gamifies personal & institutional carbon emissions using *
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
 ### 🤖 AI / ML / DL  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -82,24 +85,25 @@ Tracks, analyzes, and gamifies personal & institutional carbon emissions using *
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
 ![REST](https://img.shields.io/badge/REST%20API-005571?style=flat)
 
-### 🧰 DevOps 
+### 🧰 DevOps & Tools  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI-blue?logo=jenkins)
 ![Linux](https://img.shields.io/badge/Linux-yellow?logo=linux)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blueviolet?logo=kubernetes)
 ![DevOps](https://img.shields.io/badge/DevOps-orange?logo=devops)
 ![Orchestration](https://img.shields.io/badge/Orchestration-4B0082?logo=cloud&logoColor=white)
+
 ---
 
 ## 🗣️ Let's Connect, Collaborate & Build!  
 
-> ✨ I'm always up for open-source collabs.
-> 🧩 Reach out if you have ideas for social impact, or want to work on projects that blend **tech + purpose**.
+✨ I'm always up for open-source collabs.  
+🧩 Reach out if you have ideas for social impact, or want to work on projects that blend **tech + purpose**.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/bhoomi-jaiswal-91715128b/)
-- 💻 [GitHub](https://github.com/BHOOMI764/BHOOMI764)
-- 📧 bhoomicat2005@gmail.com 
+- 💻 [GitHub](https://github.com/BHOOMI764)
+- 📧 [Email Me](mailto:bhoomicat2005@gmail.com)
 
 ---
 
-> **“Let’s build tech that empowers. Let's code for good.” 💫**
+> 💫 **“Let’s build tech that empowers. Let’s code with purpose. Let’s make a difference.”** 💙
