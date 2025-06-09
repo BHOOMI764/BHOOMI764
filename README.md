@@ -15,7 +15,7 @@ A passionate **Full-Stack Developer**, **AI/ML Engineer**, and **Data Science En
 
 ---
 
-## 🌟 Worked on these Projects
+## 🌟 Notable Projects
 
 ### 🔐 Naari – Women Safety App
 A real-time safety application powered by **AI** & **Geo-location tracking**, designed to enhance safety and confidence for women.  
