@@ -1,7 +1,7 @@
 # 👩‍💻 Hey there, I'm Bhoomi Jaiswal! 👋
 
 A passionate **Full-Stack Developer**, **AI/ML Engineer**, and **Data Science Enthusiast** driven by the mission to **build tech that matters**.  
-💡 I **create impactful web apps — from frontend to backend to AI** — to solve real-world problems.
+💡 I **create impactful web apps — from frontend to backend to AI[Model Tunning]** — to solve real-world problems.
 
 🚀 **Currently diving into Blockchain and Project Management to expand my tech horizons!**
 
