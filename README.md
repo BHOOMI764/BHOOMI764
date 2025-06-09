@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Bhoomi Jaiswal — Full-Stack Developer | AI/ML Engineer | Tech-for-Good Advocate 💙
-
+# 👋 Hi, I'm Bhoomi Jaiswal
 A passionate **Full-Stack Developer**, **AI/ML Engineer**, and **Data Science Enthusiast** driven by the mission to **build tech that matters**.  
 💡 I build impactful web apps — from frontend to backend to AI (model tuning) — to solve real-world problems.
 
