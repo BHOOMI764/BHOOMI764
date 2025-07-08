@@ -16,21 +16,6 @@ A passionate **Full-Stack Developer**, **AI/ML Engineer**, and **Data Science En
 👩‍💼 Always learning. Always shipping. Always growing with the dev community.
 💙 Always excited to collaborate, innovate, and contribute to impactful projects!
 
----
-
-## 🌟 Notable Projects
-
-### 🔐 Naari – Women Safety App
-
-A real-time safety application powered by **AI** & **Geo-location tracking**, designed to enhance safety and confidence for women.
-🛠️ Features: SOS alerts, emergency contacts, threat-level detection.
-
-### 🌿 FootprintX – Carbon Footprint Tracker
-
-Tracks, analyzes, and gamifies personal & institutional carbon emissions using **React**, **Node.js**, **SQLite**, and **APIs**.
-🌀 Features: Real-time carbon data, tweet-based complaint portal, AI dashboards & leaderboard gamification.
-
----
 
 📊 GitHub Analytics
 
