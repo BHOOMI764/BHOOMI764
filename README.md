@@ -16,6 +16,7 @@ A passionate **Full-Stack Developer**, **AI/ML Engineer**, and **Data Science En
 👩‍💼 Always learning. Always shipping. Always growing with the dev community.
 💙 Always excited to collaborate, innovate, and contribute to impactful projects!
 
+---
 
 📊 GitHub Analytics
 
