@@ -1,7 +1,7 @@
   
 # 👋 Hi, I'm Bhoomi Jaiswal
 
-![Profile Views](https://komarev.com/ghpvc/?username=BHOOMI764\&color=blue)
+#![Profile Views](https://komarev.com/ghpvc/?username=BHOOMI764\&color=blue)
 
 A passionate **Full-Stack Developer**, **AI/ML Engineer**, and **Data Science Enthusiast** driven by the mission to **build tech that matters**.
 💡 I build impactful web apps — from frontend to backend to AI (model tuning) — to solve real-world problems.
