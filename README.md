@@ -90,6 +90,7 @@ A passionate **Full-Stack Developer**, **AI/ML Engineer**, and **Data Science En
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bhoomi-jaiswal-91715128b/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/BHOOMI764)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:bhoomicat2005@gmail.com)
+[![YouTube](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/@bhoomijaiswal280)
 
 
 ---
