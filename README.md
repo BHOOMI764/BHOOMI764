@@ -115,21 +115,6 @@ A passionate **Full-Stack Developer**, **AI/ML Engineer**, and **Data Science En
 ✨ I'm always up for open-source collaborations.  
 🧩 Reach out if you have ideas for social impact or want to work on projects that blend **tech + purpose**.  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhoomi-jaiswal-91715128b/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48px" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/BHOOMI764">
-    <img src="https://skillicons.dev/icons?i=github" width="48px" alt="GitHub"/>
-  </a>
-  <a href="mailto:bhoomicat2005@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48px" alt="Gmail"/>
-  </a>
-  <a href="https://www.youtube.com/@bhoomijaiswal280">
-    <img src="https://skillicons.dev/icons?i=youtube" width="48px" alt="YouTube"/>
-  </a>
-</p>
-
 ---
 
 > 💫 **“Let’s build tech that empowers. Let’s code with purpose. Let’s make a difference.”** 💙
