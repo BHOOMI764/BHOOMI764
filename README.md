@@ -26,17 +26,20 @@ A passionate **Full-Stack Developer**, **AI/ML Engineer**, and **Data Science En
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bhoomi-jaiswal-91715128b/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48px" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/bhoomi-jaiswal-91715128b/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48px" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/BHOOMI764">
-    <img src="https://skillicons.dev/icons?i=github" width="48px" alt="GitHub"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/BHOOMI764" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="48px" alt="GitHub" />
   </a>
-  <a href="mailto:bhoomicat2005@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48px" alt="Gmail"/>
+  &nbsp;&nbsp;
+  <a href="mailto:bhoomicat2005@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48px" alt="Gmail" />
   </a>
-  <a href="https://www.youtube.com/@bhoomijaiswal280">
-    <img src="https://skillicons.dev/icons?i=youtube" width="48px" alt="YouTube"/>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@bhoomijaiswal280" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" width="48px" alt="YouTube" />
   </a>
 </p>
 
