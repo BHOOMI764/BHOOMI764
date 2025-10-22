@@ -40,7 +40,6 @@ A passionate **Full-Stack Developer**, **AI/ML Engineer**, and **Data Science En
   </a>
 </p>
 
-📱 **@bhoomijaiswal280**
 
 ---
 
