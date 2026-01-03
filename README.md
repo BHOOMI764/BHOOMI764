@@ -4,7 +4,6 @@ A passionate **Full-Stack Developer**, **AI/ML Engineer**, and **Data Science En
 💡 I build impactful web apps — from frontend to backend to AI (model tuning) — to solve real-world problems.  
 
 🚀 **Currently diving into Blockchain and Project Management** to expand my tech horizons!  
-
 ---
 
 ## 🧠 What Drives Me  
