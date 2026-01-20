@@ -13,7 +13,6 @@ A passionate **Full-Stack Developer**, **AI/ML Engineer**, and **Data Science En
 
 ## ⚡ About Me  
 
-💻 I'm a **Software Developer**  
 🎓 Currently pursuing **B.E. in Computer Engineering** from **FRCRCE, Bandra**.  
 📬 **Contact:** [reachoutbhoomij@gmail.com](mailto:reachoutbhoomij@gmail.com)  
 
