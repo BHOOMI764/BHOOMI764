@@ -3,9 +3,6 @@
 A passionate **Full-Stack Developer**, **AI/ML Engineer**, and **Data Science Enthusiast** driven by the mission to **build tech that matters**.  
 💡 I build impactful web apps — from frontend to backend to AI (model tuning) — to solve real-world problems.  
 
-🚀 **Currently diving into Blockchain and Project Management** to expand my tech horizons!  
----
-
 ## 🧠 What Drives Me  
 
 🚀 **Code for Good** – I believe in technology that empowers, protects, and transforms lives.  
